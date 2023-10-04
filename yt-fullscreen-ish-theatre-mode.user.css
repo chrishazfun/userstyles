@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name YouTube: Fullscreen-ish Theatre Mode
 @namespace youtube.com
-@version 1.1.0
+@version 1.1.1
 @description Simple style that causes the YouTube player to fill the window when in Theatre Mode but not overlap the navigation bar.
 @author chrishazfun
 ==/UserStyle== */
@@ -11,9 +11,5 @@
   ytd-watch-flexy[theater]:not([fullscreen]) #full-bleed-container.ytd-watch-flexy {
     height: calc(100vh - 56px);
     max-height: calc(100vh - 56px);
-  }
-  * {
-    animation: unset !important;
-    transition: unset !important;
   }
 }
