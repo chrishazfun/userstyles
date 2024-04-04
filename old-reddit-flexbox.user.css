@@ -1,9 +1,9 @@
 /* ==UserStyle==
-@name           Old.Reddit: Flexbox
-@namespace      youtube.com
-@version        1.0.0
-@description    Basic style that uses flexbox to fix old.reddit when viewed from  the width of the page of style that causes the YouTube player to fill the window when in Theatre Mode but not overlap the navigation bar.
-@author         chrishazfun
+@name Old.Reddit: Flexbox
+@namespace youtube.com
+@version 1.0.0
+@description Basic style that uses flexbox to fix old.reddit when viewed from  the width of the page of style that causes the YouTube player to fill the window when in Theatre Mode but not overlap the navigation bar.
+@author chrishazfun
 ==/UserStyle== */
 
 @-moz-document url-prefix("https://old.reddit.com/r/") {
