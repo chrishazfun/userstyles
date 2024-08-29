@@ -1,10 +1,9 @@
 /* ==UserStyle==
 @name Phanpy Tweaks
-@namespace chrishazfun
-@version 2024.7.15
-@updateURL https://raw.githubusercontent.com/chrishazfun/userstyles/main/phanpy-tweaks.user.css
-@description A handful of adjustments to Phanpy.social, the third-party client for Mastodon.
-@author chrishazfun
+@description A handful of adjustments to Phanpy.Social, a third-party client for Mastodon.
+@author Chris Lowles
+@version 2024.8.30
+@updateURL https://raw.githubusercontent.com/chrislowles/userstyles/main/phanpy-tweaks.user.css
 ==/UserStyle== */
 
 @-moz-document domain("phanpy.social") {
